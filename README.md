@@ -7,8 +7,12 @@
 [Builds](#build)<Br>
 [Open World Activitis](Open_World_Activitis)<Br>
 [Difficulty and Directives](#general_tips_on_difficulty_and_directives)<Br>
+[Activities](Which_Activites_To_Farm)<Br>
+[Skill Tips]( Quick_Skill_Guide)<Br>
+[Faction](Faction_Consideration)<Br>
+[Spawns](#Spawns)<br> 
 ---
-## GOverview
+## Overview
     Farming Xp IN Divison 2 Is Quite Simple If You Know The Know How In This Guide I Will List Few Things That I Use To Farm Xp As Efficiently As Possible. 
 
 
@@ -21,11 +25,11 @@
 - Eclipse Protocol<Br>
     4pcs Eclipse With Bag And Chest Vile Mask And 1 Electrique Pcs With Status Rolled On All The Pcs And Skill Dmg Mods Skill Haste<Br>
 
-    ![Ep](Https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/Ep.Png)
+    ![Ep](img/Ep.Png)
 - Headhunters Fury With D50/Regulus <br>
-    4pcs Hunters Fury With Douglas & Harding Bag With Vigilance Talent And The Named Walker & Harris Chest Pcs Chainkiller With Perfect Headhunter All Pcs Rolled Headshot Damage And Secondry Attribute Being Weapon Hanling Mods Also Headshot Damage.
+    4pcs Hunters Fury With Douglas & Harding Bag With Vigilance Talent And The Named Walker & Harris Chest Pcs Chainkiller With Perfect Headhunter All Pcs Rolled Headshot Damage And Secondry Attribute Being Weapon Hanling Mods Also Headshot Damage.You can also use memento bag in place of D&H with vigilance but replace your chest with D&H with HeadHunter.
 
-    ![Hh](Https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/Hh.Png) <br>
+    ![Hh](img/hh.Png) <br>
 
 
 ### For Further Reading Check Raucey'S Build <br>
@@ -48,7 +52,7 @@
 
     Xp-Chart For All Activities<Br>
 
-    ![Xp-Chart](Https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/Xp_Values.Png)<br>
+    ![Xp-Chart](img/Xp_Values.Png)<br>
     credits:KiRRa
 ---
 ## General Tips On Difficulty And Directives
@@ -70,12 +74,12 @@
 
 - Also,Don't complete weekly invaded tidal basin till near the end as the area i call xp haven is near tidal basin completig it makes  the activities dissapear <br>
     XP HAVEN<br>
-    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/XP_HAVEN.Png)
+    ![](img/XP_HAVEN.Png)
 
 - It Is Better To Unlock Classified Mission As They Double As Fast Travel Point Making Jumping From One Loaction To Another Faster.
 
 - Best Bounty Location Spot(Constitution Hall)<br>
-    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/17.Png)<br> 
+    ![](img/17.Png)<br> 
 
 
 
@@ -96,7 +100,7 @@
 ## Faction Consideration 
 -   Helmets
     - This Is A Problem Of Determined Talent As Even Body Shotting An Enemy With An Helmet It Will Pop The Helmet First If There Is Only One Enemy Left It Is Better To  shoot Him In The Body With M870.
-    -   For Heavy Enemies Like Chungas Just Pop The Helmet With M870 and Finish Them With D50/Regulus In This Way You Dispatch Them Quickly. 
+    -   For Heavy Enemies Like Chungas Just Pop The Helmet With M870 and Finish Them With D50/Regulus In This Way You Dispatch Them Quickly and can get your headhunter proced again. 
 - Black Tusk<Br>
     The Eclipse Fire Build Poses Some Difficulty When Dealing With Chungas And Dogs Here Is  quick Method To Deal With Them<Br>
     
@@ -130,64 +134,60 @@
         Destroy His Pouch To Disorient  enemies In An Small Aoe Be Sure To Not Do It Up Close As It Disorients You Too.
 ---
 
-## Spawns 
-    Knowing The Spawns Is Crucial In This Game It Is What Good Players Take Advantage Of To Clear Content As Fast Possible I Have Few Activites And Spawns.
 
----
-
-## Examples
- here Is A List Of Few Spawns On Locations I Farm The Most.    
+## Spawns
+Knowing The Spawns Is Crucial In This Game It Is What Good Players Take Advantage Of To Clear Content As Fast Possible I Have Few Activites And Spawns here Is A List Of Few Spawns On Locations I Farm The Most.    
 
 -  West END near Classified Mission
 
     - Location <br>
-    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/XP_HAVEN.Png)<br>
-    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/2.Png) 
+    ![](img/XP_HAVEN.Png)<br>
+    ![](img/2.Png) 
 
     - Spawns
-    	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/3.Png)<br> 
+    	![](img/3.Png)<br> 
 - Near Tidal Basin
     - Loacation A<br>
-	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/4.Png)<br> 
+	![](img/4.Png)<br> 
 
 	    - Spawns(Either One Of Them)<br>
-    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/5.Png)<br> 
-	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/6.Png)<br> 
+    ![](img/5.Png)<br> 
+	![](img/6.Png)<br> 
 
     - Location B<br>
-    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/7.Png)<br> 
+    ![](img/7.Png)<br> 
         - Spawns
-	    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/8.Png)<br>
+	    ![](img/8.Png)<br>
 
     - Location C<br>
-    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/9.Png)<br>
+    ![](img/9.Png)<br>
         - Spawns<br> 
-	    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/10.Png)<br> 
+	    ![](img/10.Png)<br> 
 - Near DZ East Checkpoint
     - Location<br>
 	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/14.Png)<br> 
-	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/15.Png)<br>
+	![](img/15.Png)<br>
         - Spawns<br> 
-	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/16.Png)<br> 
+	![](img/16.Png)<br> 
 - Near Air and Space Museum
     - Loacation <br>
-	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/18.Png)<br> 
+	![](img/18.Png)<br> 
 
 	    - Spawns(Either One Of Them)<br>
-    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/19.Png)<br> 
-	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/20.Png)<br> 
+    ![](img/19.Png)<br> 
+	![](img/20.Png)<br> 
 
     - Loacation <br>
-	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/22.Png)<br> 
+	![](img/22.Png)<br> 
 
 	    - Spawns(Either One Of Them)<br>
-    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/23.Png)<br> 
-	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/24.Png)<br>
-    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/25.Png)<br>  
+    ![](img/23.Png)<br> 
+	![](img/24.Png)<br>
+    ![](img/25.Png)<br>  
 
     - Loacation <br>
-	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/26.Png)<br> 
+	![](img/26.Png)<br> 
 
 	    - Spawns(Either One Of Them)<br>
-    ![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/27.Png)<br>
+    ![](img/27.Png)<br>
  
