@@ -25,7 +25,7 @@
 - Eclipse Protocol<Br>
     4pcs Eclipse With Bag And Chest Vile Mask And 1 Electrique Pcs With Status Rolled On All The Pcs And Skill Dmg Mods Skill Haste<Br>
 
-    ![Ep](img/Ep.png)
+    ![Ep](img/EP.png)
 - Headhunters Fury With D50/Regulus <br>
     4pcs Hunters Fury With Douglas & Harding Bag With Vigilance Talent And The Named Walker & Harris Chest Pcs Chainkiller With Perfect Headhunter All Pcs Rolled Headshot Damage And Secondry Attribute Being Weapon Hanling Mods Also Headshot Damage.You can also use memento bag in place of D&H with vigilance but replace your chest with D&H with HeadHunter.
 
@@ -52,7 +52,7 @@
 
     Xp-Chart For All Activities<Br>
 
-    ![Xp-Chart](img/Xp_Values.Png)<br>
+    ![Xp-Chart](img/XP_Values.Png)<br>
     credits:KiRRa
 ---
 ## General Tips On Difficulty And Directives
