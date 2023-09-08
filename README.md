@@ -52,7 +52,7 @@
 
     Xp-Chart For All Activities<Br>
 
-    ![Xp-Chart](img/XP_Values.Png)<br>
+    ![Xp-Chart](img/XP_Values.png)<br>
     credits:KiRRa
 ---
 ## General Tips On Difficulty And Directives
