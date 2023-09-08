@@ -51,9 +51,8 @@
 
 
     Xp-Chart For All Activities<Br>
-
-    ![Xp-Chart](img/XP_Values.png)<br>
-    credits:KiRRa
+![](img/XP_Values.png)
+    credits:Divison2 Discord
 ---
 ## General Tips On Difficulty And Directives
 - Difficulty <br>
