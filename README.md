@@ -25,11 +25,11 @@
 - Eclipse Protocol<Br>
     4pcs Eclipse With Bag And Chest Vile Mask And 1 Electrique Pcs With Status Rolled On All The Pcs And Skill Dmg Mods Skill Haste<Br>
 
-    ![Ep](img/Ep.Png)
+    ![Ep](img/Ep.png)
 - Headhunters Fury With D50/Regulus <br>
     4pcs Hunters Fury With Douglas & Harding Bag With Vigilance Talent And The Named Walker & Harris Chest Pcs Chainkiller With Perfect Headhunter All Pcs Rolled Headshot Damage And Secondry Attribute Being Weapon Hanling Mods Also Headshot Damage.You can also use memento bag in place of D&H with vigilance but replace your chest with D&H with HeadHunter.
 
-    ![Hh](img/hh.Png) <br>
+    ![Hh](img/hh.png) <br>
 
 
 ### For Further Reading Check Raucey'S Build <br>
@@ -74,12 +74,12 @@
 
 - Also,Don't complete weekly invaded tidal basin till near the end as the area i call xp haven is near tidal basin completig it makes  the activities dissapear <br>
     XP HAVEN<br>
-    ![](img/XP_HAVEN.Png)
+    ![](img/XP_HAVEN.png)
 
 - It Is Better To Unlock Classified Mission As They Double As Fast Travel Point Making Jumping From One Loaction To Another Faster.
 
 - Best Bounty Location Spot(Constitution Hall)<br>
-    ![](img/17.Png)<br> 
+    ![](img/17.png)<br> 
 
 
 
@@ -141,53 +141,53 @@ Knowing The Spawns Is Crucial In This Game It Is What Good Players Take Advantag
 -  West END near Classified Mission
 
     - Location <br>
-    ![](img/XP_HAVEN.Png)<br>
-    ![](img/2.Png) 
+    ![](img/XP_HAVEN.png)<br>
+    ![](img/2.png) 
 
     - Spawns
-    	![](img/3.Png)<br> 
+    	![](img/3.png)<br> 
 - Near Tidal Basin
     - Loacation A<br>
-	![](img/4.Png)<br> 
+	![](img/4.png)<br> 
 
 	    - Spawns(Either One Of Them)<br>
-    ![](img/5.Png)<br> 
-	![](img/6.Png)<br> 
+    ![](img/5.png)<br> 
+	![](img/6.png)<br> 
 
     - Location B<br>
-    ![](img/7.Png)<br> 
+    ![](img/7.png)<br> 
         - Spawns
-	    ![](img/8.Png)<br>
+	    ![](img/8.png)<br>
 
     - Location C<br>
-    ![](img/9.Png)<br>
+    ![](img/9.png)<br>
         - Spawns<br> 
-	    ![](img/10.Png)<br> 
+	    ![](img/10.png)<br> 
 - Near DZ East Checkpoint
     - Location<br>
-	![](https://Github.Com/Game-Keeps-Loading/Divison2-xp-101/Tree/Main/Img/14.Png)<br> 
-	![](img/15.Png)<br>
+	![](img/14.png)<br> 
+	![](img/15.png)<br>
         - Spawns<br> 
-	![](img/16.Png)<br> 
+	![](img/16.png)<br> 
 - Near Air and Space Museum
     - Loacation <br>
-	![](img/18.Png)<br> 
+	![](img/18.png)<br> 
 
-	    - Spawns(Either One Of Them)<br>
-    ![](img/19.Png)<br> 
-	![](img/20.Png)<br> 
-
-    - Loacation <br>
-	![](img/22.Png)<br> 
-
-	    - Spawns(Either One Of Them)<br>
-    ![](img/23.Png)<br> 
-	![](img/24.Png)<br>
-    ![](img/25.Png)<br>  
+	- Spawns(Either One Of Them)<br>
+    ![](img/19.png)<br> 
+	![](img/20.png)<br> 
 
     - Loacation <br>
-	![](img/26.Png)<br> 
+	![](img/22.png)<br> 
 
 	    - Spawns(Either One Of Them)<br>
-    ![](img/27.Png)<br>
+    ![](img/23.png)<br> 
+	![](img/24.png)<br>
+    ![](img/25.png)<br>  
+
+    - Loacation <br>
+	![](img/26.png)<br> 
+
+	    - Spawnsp<br>
+    ![](img/27.png)<br>
  
